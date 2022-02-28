@@ -1,0 +1,18 @@
+*{
+  margin: 0px;
+}
+
+header{
+  background-image: url(pattern.png);
+  background-size: contain;
+  background-color: #4F9FF7;
+  height: 100px;
+}
+
+#title{
+  height: 50px;
+  width: 200px;
+  padding: 40px 0 0 5px;
+}
+
+
