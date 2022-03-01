@@ -1,5 +1,5 @@
 *{
-  margin: 0px auto;
+  margin: 0px;
 }
 
 header{
@@ -12,11 +12,12 @@ header{
 #logo{
   height: 50px;
   width: 200px;
-  padding: 40px 0 0 5px;
+  padding: 40px 0 0 1%;
 }
 
 main{
   width: 98%;
+  margin: auto;
 }
 
 h1{
